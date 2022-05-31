@@ -32,7 +32,7 @@ dependencies:
     hosted:
       name: transmogrify
       url: https://github.com/rubiG04/Carla-Rubi
-    version: ^2.5.3 
+    version: ^13.4 
     
 executables: 
   slidy: main
